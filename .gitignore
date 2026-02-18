@@ -1,0 +1,11 @@
+# Ignore compiled binaries
+a.out
+*.a
+*.o
+
+#Ignore build directories
+
+build/
+
+#Ignore temp files
+*.log
